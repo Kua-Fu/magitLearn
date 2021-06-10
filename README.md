@@ -1,0 +1,2 @@
+# magitLearn
+learn magit
